@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agineti Tirupchandra</h1>
-<h3 align="center">### Electronics & Communication Engineering Student | Passionate About Technology, Innovation, and Continuous Learning.</h3>
+<h3 align="center">### Electronics & Communication Engineering Student | Passionate About Technology, Innovation, and Continuous Learning, currently pursuing my **2nd Year B.E. in Electronics and Communication Engineering (ECE) at R.M.K College of Engineering and Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirupchandra-png&label=Profile%20views&color=0e75b6&style=flat" alt="tirupchandra-png" /> </p>
 
